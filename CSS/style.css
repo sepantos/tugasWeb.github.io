@@ -1,0 +1,61 @@
+body{
+  background-image: url(../image/pattern.jpg);
+  background-attachment: scroll;
+}
+
+#logo{
+    float: left;
+    border-style: solid;
+    border-width: 2px 1500px 5px 100px;
+    color: white;
+    background: white;
+}
+
+h1{
+
+  display: none;
+}
+
+#article-list{
+  display:inline-block;
+  padding: 15px;
+  border-bottom: 1px solid #ccc;
+  margin-top: 2px;
+  margin-bottom: 10px;
+  margin-right: 100px;
+  margin-left: 100px;
+  background-color: white;
+}
+
+
+
+.name {
+   display:inline;
+   float: right;
+   padding-top: 10px;
+   padding-bottom: 100;
+}
+
+p{
+  border: outset;
+  border-right:10px;
+  border-left: 10px;
+}
+
+footer{
+  background: black;
+  right: 100px;
+  left: 100px;
+}
+
+h5 { 
+    color: white; 
+    text-align:center;
+    background: black;
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    display:block;
+}
+
